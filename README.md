@@ -34,4 +34,4 @@ func main() {
 
 ## Documentation
 
-See [documentation on godoc](godoc.org/github.com/waygo/bleu).
+See [documentation on godoc](https://godoc.org/github.com/waygo/bleu).
