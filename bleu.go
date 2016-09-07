@@ -1,4 +1,4 @@
-// package bleu implements the BLEU method, which is used to evaluate
+// Package bleu implements the BLEU method, which is used to evaluate
 // the quality of machine translation. [1]
 //
 // The code in this package was largely ported from the corresponding package
@@ -10,7 +10,6 @@
 //     Linguistics, 2002.
 //
 // [2] http://www.nltk.org/_modules/nltk/align/bleu.html
-
 package bleu
 
 import (
