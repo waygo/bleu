@@ -1,5 +1,7 @@
 # BLEU
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/waygo/bleu)](https://goreportcard.com/report/github.com/waygo/bleu)
+
 This package implements a library for using the [BLEU method](https://en.wikipedia.org/wiki/BLEU), used to evaluate the quality of machine translation. It is written in Go.
 
 ## Installation
